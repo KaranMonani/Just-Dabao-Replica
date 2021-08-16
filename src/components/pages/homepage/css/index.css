@@ -1,0 +1,184 @@
+.carousel .control-next.control-arrow:before {
+  border-left: 8px solid green !important;
+}
+
+.carousel.carousel-slider .control-arrow:hover {
+  background: rgba(0, 0, 0, 0) !important;
+}
+
+.carousel .control-prev.control-arrow:before {
+  border-right: 8px solid green !important;
+}
+
+.carousel.carousel-slider .control-arrow:hover {
+  background: rgba(0, 0, 0, 0) !important;
+}
+
+.image-gallery-left-nav .image-gallery-svg,
+.image-gallery-right-nav .image-gallery-svg {
+  color: green;
+}
+
+.image-gallery-thumbnail.active,
+.image-gallery-thumbnail:focus {
+  border: 4px solid green !important;
+}
+
+/* @media only screen and (max-width: 600px) {
+} */
+.MuiGrid-grid-sm-3 {
+  max-width: 85% !important;
+}
+/* Button Hover */
+
+.hover-switch > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+/* 
+ * Show the last image by default
+*/
+.hover-switch > img:last-of-type {
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out;
+  -moz-transition: opacity 0.5s ease-in-out;
+  -webkit-transition: opacity 0.5s ease-in-out;
+}
+/* 
+ * Hide the last image on hover
+*/
+.hover-switch:hover > img:last-of-type {
+  opacity: 0;
+}
+
+.coolBeans {
+  border: 2px solid currentColor;
+  border-radius: 3rem;
+  color: green;
+  font-family: roboto;
+  font-size: 1rem;
+  overflow: hidden;
+  padding: 1rem 2rem;
+  background-color: white;
+  position: relative;
+  text-decoration: none;
+  transition: 0.2s transform ease-in-out;
+  will-change: transform;
+  z-index: 0;
+  cursor: pointer;
+}
+.coolBeans::after {
+  background-color: green;
+  border-radius: 3rem;
+  content: "";
+  display: block;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: translate(-100%, 0) rotate(10deg);
+  transform-origin: top left;
+  transition: 0.2s transform ease-out;
+  will-change: transform;
+  z-index: -1;
+}
+.coolBeans:hover::after {
+  transform: translate(0, 0);
+}
+.coolBeans:hover {
+  border: 2px solid transparent;
+  color: white;
+  transform: scale(1.05);
+  will-change: transform;
+}
+
+.mainText {
+  font-size: 20px;
+  margin: 15%;
+  color: rgb(58, 58, 58);
+  font-family: Raleway, sans-serif;
+  font-weight: bold;
+}
+
+.headingText {
+  font-size: -webkit-xxx-large;
+  text-shadow: 0px 1px, 1px 0px, 1px 1px;
+}
+
+@media only screen and (max-width: 600px) {
+  .mainText {
+    text-align: center;
+  }
+}
+
+.fade-enter-active {
+  opacity: 0.5;
+  transition: opacity 250ms ease-in;
+}
+
+.fade-enter-done {
+  opacity: 1;
+  transition: opacity 250ms ease-in;
+}
+
+.fade-exit {
+  box-shadow: inset 0 0 0 2px hsla(0, 0%, 100%, 0.5) !important;
+  background: transparent !important;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: green !important;
+  line-height: 0 !important;
+}
+
+/* .slick-list {
+  height: 200px !important;
+} */
+
+.MuiFormLabel-root.Mui-focused {
+  color: #3a3a3a !important;
+}
+
+.MuiOutlinedInput-root {
+  color: #3a3a3a !important;
+}
+
+.ui-dialog-overlay {
+  background: none !important;
+}
+
+.ui-dialog {
+  transition: all 0.5s ease-in-out;
+  top: 22% !important;
+  left: 83% !important;
+}
+
+.ui-dialog:target {
+  height: 50px;
+}
+
+.MuiBackdrop-root {
+  background-color: rgba(0, 0, 0, 0) !important;
+}
+
+.MuiDialog-paperWidthSm {
+  position: absolute !important;
+  top: 8px !important;
+  right: 16px !important;
+  /* top: -30vh !important;
+  right: -61vw !important; */
+}
+
+@media only screen and (max-width: 900px) {
+  .MuiDialog-root {
+    width: 100vw !important;
+  }
+}
+
+.MuiIconButton-root {
+  padding: 5px !important;
+}

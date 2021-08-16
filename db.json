@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "name": "Fruits (Jurong - 23 min🚶🏻‍♂️from Boon Lay MRT)",
+      "price": "$19.80",
+      "discount_price": "$9.90",
+      "quantity": "1",
+      "pickup": "Mon - Fri, 2pm - 5pm",
+      "description": "Singapore's leading distributor of fresh fruits and vegetables, organic produce and groceries. Specialising in Premium Fresh Fruits & Vegetables daily Shipments from Europe and USA.Although, your Shiok bag will definitely contain fruits, the exact contents will be known at pick up. Eateries fill in whatever unsold food they have left for the day into the Shiok Bag. While, you get a surprise at ultra low price, the eateries get flexibility. Win + Win.You will know the eatery name and address through email after you make the purchase.P.S. Fruits sold might be bruised or ripe but still edible.",
+      "image_1": "https://cdn.shopify.com/s/files/1/0302/0714/8116/products/SpainBlackPlums_1024x1024@2x.png",
+      "image_2": "https://cdn.shopify.com/s/files/1/0302/0714/8116/products/USAEagleEggPluots_1024x1024@2x.png",
+      "id": "1"
+    },
+    {
+      "name": "Japanese (Punggol - 5 min🚶🏻‍♂️from Oasis LRT)",
+      "price": "$8.50",
+      "discount_price": "$5.50",
+      "quantity": "1",
+      "pickup": "Wed & Sun, 11am-12pm Halal",
+      "description": "This home based eatery offers a unique rendition of Sushi: Sushi baked in a pan! Sushibake is a deconstructed version of the original Japanese rolled sushi baked in a pan/casserole. Scoop a spoonful & eat with nori (seaweed).",
+      "image_1": "https://cdn.shopify.com/s/files/1/0302/0714/8116/products/photo_2021-07-23_11-36-45_2_1024x1024@2x.jpg",
+      "image_2": "https://cdn.shopify.com/s/files/1/0302/0714/8116/products/photo_2021-07-23_11-36-45_3_1024x1024@2x.jpg",
+      "id": "2"
+    },
+    {
+      "name": "Japanese (Geylang - 15 min 🚶 from Eunos MRT)",
+      "price": "$13.00",
+      "discount_price": "$8.10",
+      "quantity": "1",
+      "pickup": "Mon-Sun | 11.30am - 5.40pm Last order at 4.30pm ",
+      "description": "Japanese Casual food and Home made desserts Our cafè is deeply associated with the renowned Okada Coffee chain in Kumamoto, Japan. Tucked behind the lively district of Katong, our cafè is the place for you to unwind with family and friends!",
+      "image_1": "https://cdn.shopify.com/s/files/1/0302/0714/8116/products/WhatsAppImage2021-07-15at5.17.05PM_110x110@2x.jpg",
+      "image_2": "https://cdn.shopify.com/s/files/1/0302/0714/8116/products/WhatsAppImage2021-07-17at12.11.25PM_110x110@2x.jpg",
+      "id": "3"
+    },
+    {
+      "name": "Chinese (Kallang - 3 min🚶🏻‍♂️ from Bendemeer MRT)",
+      "price": "$12.40",
+      "discount_price": "$9.90",
+      "quantity": "1",
+      "pickup": "Mon to Fri | 5pm - 7pm",
+      "description": "The Hainanese, who were often employed as chefs by British families & companies in Singapore's early history, added their own twist to the original recipes, thickening the gravy & using different combinations of herbs & spices.",
+      "image_1": "https://cdn.shopify.com/s/files/1/0302/0714/8116/products/25d2e983-e25a-496a-9edb-fa457136da39_110x110@2x.jpg",
+      "image_2": "https://cdn.shopify.com/s/files/1/0302/0714/8116/products/6a976375-c137-4e94-a2cc-c2dbf7f2aafa_110x110@2x.jpg",
+      "id": "4"
+    },
+    {
+      "name": "Beer (Katong - 11 min🚶🏻‍♂️from Dakota MRT)",
+      "price": "$49.90",
+      "discount_price": "$34.90",
+      "quantity": "1",
+      "pickup": "Mon-Fri, 9am - 6pm",
+      "description": "GoodFoodPeople by Saladstop! is a marketplace that offers a range of plant-based foods. We want to empower you with food and recipes that are better for you and better for the environment by making plant-based food options convenient and accessible.",
+      "image_1": "https://cdn.shopify.com/s/files/1/0302/0714/8116/products/HarvestAleUpcyclingShot_110x110@2x.jpg",
+      "image_2": "https://cdn.shopify.com/s/files/1/0302/0714/8116/products/Harvest-Ale_110x110@2x.png",
+      "id": "5"
+    },
+    {
+      "name": "Coffee ( Tanjong Pagar - 1 min🚶🏻‍♂️ from Tanjong Pagar MRT)",
+      "price": "$10.00",
+      "discount_price": "$5.50",
+      "quantity": "1",
+      "pickup": "Sat, 8am - 9pm",
+      "description": "We are a Vietnamese Cafe restaurant / Warehouse specializing in Vietnamese coffee, along with healthy and delicious food and snacks.",
+      "image_1": "https://cdn.shopify.com/s/files/1/0302/0714/8116/products/photo_2021-06-1609.24.33_110x110@2x.jpg",
+      "image_2": "https://cdn.shopify.com/s/files/1/0302/0714/8116/products/photo_2021-06-1609.24.17_110x110@2x.jpg",
+      "id": "6"
+    },
+    {
+      "name": "Bakery (Geylang - 7 min 🚶🏻‍♂️from Mountbatten MRT)",
+      "price": "$19.00",
+      "discount_price": "$9.90",
+      "quantity": "1",
+      "pickup": "1pm-9pm",
+      "description": "You will know the eatery's name and address through email after you make the purchase.",
+      "image_1": "https://cdn.shopify.com/s/files/1/0302/0714/8116/products/WhatsAppImage2021-06-07at9.54.03PM_720x.jpg",
+      "image_2": "https://cdn.shopify.com/s/files/1/0302/0714/8116/products/WhatsAppImage2021-06-07at9.56.21PM_1024x1024@2x.jpg",
+      "id": "7"
+    },
+    {
+      "name": "Western (Botanic Gardens - 7 min 🚌 from Farrer Road MRT)",
+      "price": "$23.54",
+      "discount_price": "$12.50",
+      "quantity": "1",
+      "pickup": "Mon - Fri 11am-6pm",
+      "description": "We serve everything from Asian favourites, Dutch specialities & International dishes made with fresh ingredients. North Indian dishes are fresh from the tandoor. We also offer healthy options, vegetarian dishes and some gluten-free options.",
+      "image_1": "https://cdn.shopify.com/s/files/1/0302/0714/8116/products/WhatsAppImage2021-06-01at4.07.11PM_720x.jpg",
+      "image_2": "https://cdn.shopify.com/s/files/1/0302/0714/8116/products/WhatsAppImage2021-06-01at4.10.14PM_720x.jpg",
+      "id": "8"
+    }
+  ]
+}

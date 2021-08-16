@@ -1,0 +1,3 @@
+export const GET_PRODUCTS = "GET_PRODUCTS";
+export const PRODUCT_DETAILS = "PRODUCT_DETAILS";
+export const ADD_TO_CART = "ADD_TO_CART";
